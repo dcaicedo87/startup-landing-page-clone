@@ -432,6 +432,10 @@ body {
 div {
   border: 1px solid Chocolate;
 }
+/* NAVIGATION Section */
+.top-navigation {
+  background-color: #fff;
+}
 .top-navigation > .content {
   width: 970px;
   height: 70px;
