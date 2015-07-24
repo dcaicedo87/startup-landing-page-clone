@@ -428,6 +428,10 @@ th {
 
 body {
   background-color: LightGray;
+  font-family: 'Roboto', sans-serif; 
+  font-size: 16px; 
+  color: #838994; 
+  letter-spacing: 0.03em;
 }
 div {
   border: 1px solid Chocolate;
@@ -450,3 +454,10 @@ div {
 .top-navigation .links li {
     display: inline-block;
     margin-left: 1.563rem;
+}
+.top-navigation .logo {
+    padding: 0px 15px;
+    height: 40px;
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
